@@ -1,0 +1,17 @@
+# Dépendances (Node.js)
+node_modules/
+
+# Environnement Python
+venv/
+__pycache__/
+
+# Fichiers systèmes
+.DS_Store
+
+# Logs et builds
+dist/
+build/
+*.log
+
+# Variables d'environnement (Sécurité !)
+.env

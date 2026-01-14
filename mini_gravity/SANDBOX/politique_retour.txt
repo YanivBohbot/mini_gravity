@@ -1,0 +1,5 @@
+RÈGLES DU SUPPORT CLIENT - GADGET STORE
+1. Les retours sont acceptés sous 30 jours.
+2. Les frais de port sont à la charge du client, sauf si le produit est défectueux.
+3. Le remboursement se fait uniquement sur la carte bancaire d'origine.
+4. Pour toute question technique, rediriger vers api.gadgetstore.com/docs.
