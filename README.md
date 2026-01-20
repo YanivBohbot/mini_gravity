@@ -2,7 +2,9 @@
 
 **Mini-Gravity** is an advanced autonomous agentic system built with **Python**, **LangGraph**, and the **Model Context Protocol (MCP)**. It bridges the gap between Large Language Models (LLMs) and local infrastructure, allowing the AI to execute real-world tasks securely.
 
-[Image of LangChain agent architecture with tools]
+Example Prompt:
+
+    "Create a 'users' table in the database, insert a user named 'Alice', and then save a text file with a summary of what you did."
 
 ## 🚀 Key Features
 
